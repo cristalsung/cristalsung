@@ -2,7 +2,7 @@
 I'm a digital program & project manager with a technical background in new media, design, and development 
 
 ## 👀 I’m interested in ...
-* Learning new things
+* Prototyping, development, and making things pretty.
 ## 🌱 I’m currently learning 
 * Vue.js
 ## 💞️ I’m looking to collaborate on ...
